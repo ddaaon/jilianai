@@ -34,7 +34,7 @@
 
 ## ✨ 核心特性
 
-### 🚀 统一 API 接入
+### 🚀 统一 API 接入接口
 
 - **单一接口调用多模型**：一个 API Key 即可调用 OpenAI、Anthropic Claude、Google Gemini、DeepSeek 等国内外主流大模型
 - **完全兼容 OpenAI 格式**：无需修改现有代码，仅需更改 Base URL 即可完成迁移
